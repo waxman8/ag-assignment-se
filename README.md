@@ -19,9 +19,9 @@ java -jar "/../AGCodingAssignment.jar" /sandpit/resources/user1.txt /sandpit/res
 resources contain two sample files that should produce the following output when running the application
 Alan
      @Alan: If you have a procedure with 10 parameters, you probably missed some.
-     @Alan: Random numbers should not be generated with a method chosen at random. Martin
+     @Alan: Random numbers should not be generated with a method chosen at random.
+Martin
 Ward
      @Alan: If you have a procedure with 10 parameters, you probably missed some.
      @Ward: There are only two hard things in Computer Science: cache invalidation, naming things and off-by-1 errors.
      @Alan: Random numbers should not be generated with a method chosen at random.
-
