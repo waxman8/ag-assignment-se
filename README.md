@@ -12,8 +12,8 @@
 **1)** Passing in the path to a directory where user.txt and tweet.txt reside, for example
 java -jar "/../AGCodingAssignment.jar" /sandpit/resources
 
-**2)** Passing in the fully qualified file names of files that conform to user.txt and tweet.txt, for example
-java -jar "/../AGCodingAssignment.jar" /sandpit/resources/user1.txt /sandpit/resources/tweet1.txt
+**2)** Passing in the fully qualified file names of files that conform to user.txt and tweet.txt as arguments to the java runtime, for example
+java -jar "/../AGCodingAssignment.jar" /sandpit/resources/user1.txt  /sandpit/resources/tweet1.txt
 
 ## Sample files
 **resources** contain two sample files that should produce the following output when running the application
